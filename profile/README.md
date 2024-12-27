@@ -6,11 +6,11 @@
 <tr>
 <th width="1000px">
 <p align="left">
-<a href="https://github.com/CS-5004-Spring-2025/Resources/blob/main/Syllabus.md">📚 Syllabus</a> 
+<a href="https://github.com/CS-5004-Spring-2025/Website/blob/main/Syllabus.md">📚 Syllabus</a> 
 ・
-<a href="https://github.com/CS-5004-Spring-2025/Resources/blob/main/Assignments.md">🎯Assignments </a>
+<a href="https://github.com/CS-5004-Spring-2025/Website/blob/main/Assignments.md">🎯Assignments </a>
 ・
-<a href="https://github.com/CS-5004-Spring-2025/Resources/blob/main/Schedule.md">📆Schedule </a>
+<a href="https://github.com/CS-5004-Spring-2025/Website/blob/main/Schedule.md">📆Schedule </a>
 </th>
 </p>
 
